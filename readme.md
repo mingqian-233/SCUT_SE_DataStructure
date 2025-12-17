@@ -6,7 +6,6 @@ by [_mingqian_233_](https://github.com/mingqian-233)
 部分概念由 gemini 生成，经本人校对。
 模板题题源力扣，均已验证能够通过。代码大部分为手写，部分经过 gemini 进行注释。
 **建议复习顺序：重点算法（哈希、图）- 堆 - 并查集、树 - 排序 - 剩余所有内容。**
-<span style="color:red"><b>务必记住所有图论算法的具体实现！</b></span>
 
 如果这份资料帮到了你，请 star 我，谢谢！
 [github](https://github.com/mingqian-233/SCUT_SE_DataStructure)
